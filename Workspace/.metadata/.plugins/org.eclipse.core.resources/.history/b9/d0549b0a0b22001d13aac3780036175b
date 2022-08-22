@@ -1,0 +1,5 @@
+package com.ht.projectdemo.repository;
+
+public interface UserRepo {
+
+}

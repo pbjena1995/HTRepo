@@ -1,0 +1,15 @@
+package com.ht.projectdemo.service;
+
+import org.springframework.stereotype.Service;
+
+import com.ht.projectdemo.entity.User;
+
+@Service
+public class UserService {
+
+	public void saveUser(User user) {
+		
+		
+	}
+
+}

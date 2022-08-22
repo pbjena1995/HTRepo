@@ -1,0 +1,8 @@
+package com.ht.projectdemo.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
+
+}
